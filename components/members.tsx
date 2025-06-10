@@ -29,7 +29,7 @@ const members = [
   {
     id: 1,
     name: "Narayan Bhusal",
-    role: "Moderator",
+    role: "Senior Owl",
     image: NarayanImage,
     github: "https://github.com/naranbhusal02",
     twitter: "https://twitter.com/naranbhusal02",
@@ -38,7 +38,7 @@ const members = [
   {
     id: 2,
     name: "Nayan Acharya",
-    role: "Moderator",
+    role: "Senior Owl",
     image: NayanImage,
     github: "https://github.com/nayan135",
     twitter: "https://twitter.com/NoOneKnows135",
@@ -47,7 +47,7 @@ const members = [
   {
     id: 3,
     name: "Mission Acharya",
-    role: "Moderator",
+    role: "Senior Owl",
     image: MissionImage,
     github: "https://github.com/JCT-B",
     twitter: "https://twitter.com/demo",
@@ -56,7 +56,7 @@ const members = [
   {
     id: 4,
     name: "Shasank Shrestha",
-    role: "Developer",
+    role: "Owl",
     image: ShasankImage,
     github: "https://github.com/shasank00",
     twitter: "https://twitter.com/demo",
@@ -65,7 +65,7 @@ const members = [
   {
     id: 5,
     name: "Sanjog Pandey",
-    role: "Developer",
+    role: "Owl",
     image: SanjogImage,
     github: "https://github.com/sanjogpandey47",
     twitter: "https://twitter.com/demo",
@@ -74,7 +74,7 @@ const members = [
   {
     id: 6,
     name: "Prazwal Roka",
-    role: "Developer",
+    role: "Owl",
     image: PrazwalImage,
     github: "https://github.com/prazwal30",
     twitter: "https://twitter.com/demo",
@@ -83,7 +83,7 @@ const members = [
   {
     id: 7,
     name: "Rabin Chudali",
-    role: "Developer",
+    role: "Owl",
     image: RabinImage,
     github: "https://github.com/TechnophileCracker",
     twitter: "https://twitter.com/demo",
@@ -92,7 +92,7 @@ const members = [
   {
     id: 8,
     name: "Siddhant Panthi",
-    role: "Developer",
+    role: "Owl",
     image: SiddhantImage,
     github: "https://github.com/siddhantpanthi",
     twitter: "https://twitter.com/demo",
@@ -101,7 +101,7 @@ const members = [
   {
     id: 9,
     name: "Pixenex",
-    role: "Developer",
+    role: "Owl",
     image: PixenexImage,
     github: "https://github.com/codewithnaran",
     twitter: "https://twitter.com/pixenex",
@@ -110,7 +110,7 @@ const members = [
   {
     id: 10,
     name: "Pallavi Panthi",
-    role: "Member",
+    role: "Owlet",
     image: PallaviImage,
     /* github: "https://github.com/demo",
     twitter: "https://twitter.com/demo", */
@@ -120,7 +120,7 @@ const members = [
   {
     id: 11,
     name: "Nancy Kushwaha",
-    role: "Member",
+    role: "Owlet",
     image: NancyImage,
     github: "https://github.com/nancy77-1",
     /* twitter: "https://twitter.com/demo", */
@@ -131,7 +131,7 @@ const members = [
   {
     id: 12,
     name: "Anish Gyawali",
-    role: "Member",
+    role: "Owlet",
     image: AnishImage,
     github: "https://github.com/iam-anish90",
     /* twitter: "https://twitter.com/demo", */
